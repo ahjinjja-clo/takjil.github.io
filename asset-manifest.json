@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/takjil.github.io/static/css/main.5b3c51e0.css",
+    "main.js": "/takjil.github.io/static/js/main.c281fc7a.js",
+    "static/media/takjil-potrait (2).jpg": "/takjil.github.io/static/media/takjil-potrait (2).67140d3a58688db7feec.jpg",
+    "static/media/header.jpg": "/takjil.github.io/static/media/header.15010d857f6015a5a180.jpg",
+    "static/media/wa logo.png": "/takjil.github.io/static/media/wa logo.ccf92edad777dac53312.png",
+    "static/media/Telegram_logo.svg.webp": "/takjil.github.io/static/media/Telegram_logo.svg.43754b0cf728af182e6f.webp",
+    "static/media/instagram.png": "/takjil.github.io/static/media/instagram.20caa0988779e5cb17bd.png",
+    "static/media/takjil (8).jpg": "/takjil.github.io/static/media/takjil (8).747321ca528a307c538b.jpg",
+    "static/media/takjil (7).jpg": "/takjil.github.io/static/media/takjil (7).fb7050087ade4b14b7fc.jpg",
+    "static/media/takjil (11).jpg": "/takjil.github.io/static/media/takjil (11).0bc90350793af19b446d.jpg",
+    "static/media/takjil (9).jpg": "/takjil.github.io/static/media/takjil (9).a389c8d5b765715e8bd2.jpg",
+    "static/media/takjil (12).jpg": "/takjil.github.io/static/media/takjil (12).e9287f5af9bf75d92fa9.jpg",
+    "static/media/takjil (14).jpg": "/takjil.github.io/static/media/takjil (14).7a90d17befcb0126ee9c.jpg",
+    "static/media/takjil (2).jpg": "/takjil.github.io/static/media/takjil (2).5f53a7c9f8912555a118.jpg",
+    "static/media/takjil (16).jpg": "/takjil.github.io/static/media/takjil (16).6aadc3ba439e7dcad643.jpg",
+    "index.html": "/takjil.github.io/index.html",
+    "main.5b3c51e0.css.map": "/takjil.github.io/static/css/main.5b3c51e0.css.map",
+    "main.c281fc7a.js.map": "/takjil.github.io/static/js/main.c281fc7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3c51e0.css",
+    "static/js/main.c281fc7a.js"
+  ]
+}
